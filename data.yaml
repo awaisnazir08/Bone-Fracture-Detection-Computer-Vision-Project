@@ -3,4 +3,13 @@ val: dataset/valid
 test: dataset/test
 
 nc: 7
-names: ['elbow positive', 'fingers positive', 'forearm fracture', 'humerus fracture', 'humerus', 'shoulder fracture', 'wrist positive']
+names:
+  [
+    "elbow positive",
+    "fingers positive",
+    "forearm fracture",
+    "humerus fracture",
+    "humerus",
+    "shoulder fracture",
+    "wrist positive",
+  ]
